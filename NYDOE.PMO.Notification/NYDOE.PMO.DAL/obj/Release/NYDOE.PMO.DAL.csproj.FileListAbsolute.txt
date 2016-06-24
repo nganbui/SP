@@ -1,0 +1,4 @@
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\bin\Release\NYDOE.PMO.DAL.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\bin\Release\NYDOE.PMO.DAL.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\obj\Release\NYDOE.PMO.DAL.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\obj\Release\NYDOE.PMO.DAL.pdb

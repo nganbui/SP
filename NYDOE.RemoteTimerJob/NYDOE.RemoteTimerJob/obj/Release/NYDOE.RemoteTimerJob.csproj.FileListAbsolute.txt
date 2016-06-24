@@ -1,0 +1,7 @@
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Release\NYDOE.RemoteTimerJob.exe.config
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Release\NYDOE.RemoteTimerJob.exe
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Release\NYDOE.RemoteTimerJob.pdb
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Release\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\obj\Release\NYDOE.RemoteTimerJob.exe
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\obj\Release\NYDOE.RemoteTimerJob.pdb

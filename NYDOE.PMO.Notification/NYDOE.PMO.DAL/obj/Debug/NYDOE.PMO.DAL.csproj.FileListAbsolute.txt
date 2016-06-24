@@ -1,0 +1,5 @@
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\bin\Debug\NYDOE.PMO.DAL.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\bin\Debug\NYDOE.PMO.DAL.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\obj\Debug\NYDOE.PMO.DAL.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\obj\Debug\NYDOE.PMO.DAL.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.DAL\obj\Debug\NYDOE.PMO.DAL.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\NYDOE.PMO.UserProfileSync.exe.config
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\NYDOE.PMO.UserProfileSync.exe
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\NYDOE.PMO.UserProfileSync.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\Microsoft.SharePoint.Client.Search.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\NYDOE.PMO.DAL.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Release\NYDOE.PMO.DAL.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\obj\Release\NYDOE.PMO.UserProfileSync.csprojResolveAssemblyReference.cache
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\obj\Release\NYDOE.PMO.UserProfileSync.ProjectInstaller.resources
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\obj\Release\NYDOE.PMO.UserProfileSync.csproj.GenerateResource.Cache
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\obj\Release\NYDOE.PMO.UserProfileSync.exe
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\obj\Release\NYDOE.PMO.UserProfileSync.pdb

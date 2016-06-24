@@ -1,0 +1,8 @@
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Debug\NYDOE.RemoteTimerJob.exe.config
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Debug\NYDOE.RemoteTimerJob.exe
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Debug\NYDOE.RemoteTimerJob.pdb
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\obj\Debug\NYDOE.RemoteTimerJob.exe
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\obj\Debug\NYDOE.RemoteTimerJob.pdb
+E:\Projects 2015\NYDOE.RemoteTimerJob\NYDOE.RemoteTimerJob\obj\Debug\NYDOE.RemoteTimerJob.csprojResolveAssemblyReference.cache

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="106">
+    <Receiver>
+      <Name>RERCalendarItemAdding</Name>
+      <Type>ItemAdding</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <Url>~remoteAppUrl/Services/RERCalendar.svc</Url>
+    </Receiver>
+    <Receiver>
+      <Name>RERCalendarItemUpdating</Name>
+      <Type>ItemUpdating</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <Url>~remoteAppUrl/Services/RERCalendar.svc</Url>
+    </Receiver>
+    <Receiver>
+      <Name>RERCalendarItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <Url>~remoteAppUrl/Services/RERCalendar.svc</Url>
+    </Receiver>
+    <Receiver>
+      <Name>RERCalendarItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <SequenceNumber>10000</SequenceNumber>
+      <Url>~remoteAppUrl/Services/RERCalendar.svc</Url>
+    </Receiver>
+  </Receivers>
+</Elements>

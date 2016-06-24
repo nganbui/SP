@@ -1,0 +1,8 @@
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\bin\Debug\NYDOE.PMO.GroupProvisionTimerJob.exe.config
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\bin\Debug\NYDOE.PMO.GroupProvisionTimerJob.exe
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\bin\Debug\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\obj\Debug\NYDOE.PMO.GroupProvisionTimerJob.exe
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\obj\Debug\NYDOE.PMO.GroupProvisionTimerJob.pdb
+E:\Projects 2015\NYDOE.PMO.GroupProvisionTimerJob\NYDOE.PMO.GroupProvisionTimerJob\bin\Debug\NYDOE.PMO.GroupProvisionTimerJob.pdb

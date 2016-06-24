@@ -1,0 +1,191 @@
+﻿Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Creating EventLog source UserProfileSync in log Application...
+Rolling back assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Restoring event log to previous state for source UserProfileSync.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Creating EventLog source UserProfileSync in log Application...
+Rolling back assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Restoring event log to previous state for source UserProfileSync.
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Attempt to stop service UserProfileSync.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Attempt to stop service UserProfileSync.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Attempt to stop service UserProfileSync.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Attempt to stop service UserProfileSync.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Uninstalling assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Removing EventLog source UserProfileSync.
+Service UserProfileSync is being removed from the system...
+Service UserProfileSync was successfully removed from the system.
+Attempt to stop service UserProfileSync.
+Installing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe
+Installing service UserProfileSync...
+Service UserProfileSync has been successfully installed.
+Creating EventLog source UserProfileSync in log Application...
+Committing assembly 'E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.InstallLog
+   assemblypath = E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.UserProfileSync\bin\Debug\NYDOE.PMO.UserProfileSync.exe

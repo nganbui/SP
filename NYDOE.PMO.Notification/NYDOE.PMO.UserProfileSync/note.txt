@@ -1,0 +1,5 @@
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\installutil.exe NYDOE.PMO.UserProfileSync.exe
+pause
+
+C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\installutil.exe /u NYDOE.PMO.UserProfileSync.exe
+pause

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/NYDOE.RER.PMO.GroupProvisionWeb" />
+  <setParameter name="ClientId" value="adb1412b-edb2-44d7-a536-a72568e37ee6" />
+  <setParameter name="ClientSigningCertificatePath" value="C:\Certs\ProviderHostedHighTrust.pfx" />
+  <setParameter name="ClientSigningCertificatePassword" value="123456" />
+  <setParameter name="IssuerId" value="d250d0bc-d44e-4d8b-9e36-567817943628" />
+</parameters>

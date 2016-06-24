@@ -1,0 +1,8 @@
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\bin\Debug\NYDOE.PMO.TitleStatusReportUpdate.exe.config
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\bin\Debug\NYDOE.PMO.TitleStatusReportUpdate.exe
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\bin\Debug\NYDOE.PMO.TitleStatusReportUpdate.pdb
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\obj\Debug\NYDOE.PMO.TitleStatusReportUpdate.csprojResolveAssemblyReference.cache
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\obj\Debug\NYDOE.PMO.TitleStatusReportUpdate.exe
+E:\Projects 2015\NYDOE.PMO.TitleStatusReportUpdate\NYDOE.PMO.TitleStatusReportUpdate\obj\Debug\NYDOE.PMO.TitleStatusReportUpdate.pdb

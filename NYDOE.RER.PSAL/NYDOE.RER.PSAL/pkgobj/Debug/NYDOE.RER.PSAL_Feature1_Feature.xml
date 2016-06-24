@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="bb4c7a5f-d869-40a1-ad44-1422e4920962" Scope="Web" Title="NYDOE.RER.PSAL Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="RERCalendar\Elements.xml" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="RERCalendar\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

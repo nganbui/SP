@@ -1,0 +1,8 @@
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\bin\Debug\NYDOE.PMO.ClientSideRendering.exe.config
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\bin\Debug\NYDOE.PMO.ClientSideRendering.exe
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\bin\Debug\NYDOE.PMO.ClientSideRendering.pdb
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\obj\Debug\NYDOE.PMO.ClientSideRendering.exe
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\obj\Debug\NYDOE.PMO.ClientSideRendering.pdb
+E:\Projects 2015\NYDOE.PMO.ClientSideRendering\NYDOE.PMO.ClientSideRendering\obj\Debug\NYDOE.PMO.ClientSideRendering.csprojResolveAssemblyReference.cache

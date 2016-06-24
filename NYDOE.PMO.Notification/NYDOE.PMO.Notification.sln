@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TimerJob", "TimerJob", "{DCEE6956-B85D-4759-A756-A80B07E5B021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NYDOE.PMO.PopulateTasks", "NYDOE.PMO.PopulateTasks\NYDOE.PMO.PopulateTasks.csproj", "{543A7953-DD79-494E-85B8-858FFFEDF98D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NYDOE.PMO.UserProfileSync", "NYDOE.PMO.UserProfileSync\NYDOE.PMO.UserProfileSync.csproj", "{AFBC3C39-9580-4D39-A345-5DC667A969F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NYDOE.PMO.DAL", "NYDOE.PMO.DAL\NYDOE.PMO.DAL.csproj", "{9A39BDDC-7789-4A1E-9909-D4DE3D6B0C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543A7953-DD79-494E-85B8-858FFFEDF98D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543A7953-DD79-494E-85B8-858FFFEDF98D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543A7953-DD79-494E-85B8-858FFFEDF98D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543A7953-DD79-494E-85B8-858FFFEDF98D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBC3C39-9580-4D39-A345-5DC667A969F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBC3C39-9580-4D39-A345-5DC667A969F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBC3C39-9580-4D39-A345-5DC667A969F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBC3C39-9580-4D39-A345-5DC667A969F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A39BDDC-7789-4A1E-9909-D4DE3D6B0C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A39BDDC-7789-4A1E-9909-D4DE3D6B0C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A39BDDC-7789-4A1E-9909-D4DE3D6B0C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A39BDDC-7789-4A1E-9909-D4DE3D6B0C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{543A7953-DD79-494E-85B8-858FFFEDF98D} = {DCEE6956-B85D-4759-A756-A80B07E5B021}
+		{AFBC3C39-9580-4D39-A345-5DC667A969F6} = {DCEE6956-B85D-4759-A756-A80B07E5B021}
+		{9A39BDDC-7789-4A1E-9909-D4DE3D6B0C25} = {DCEE6956-B85D-4759-A756-A80B07E5B021}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListTemplateId="100">
+    <Receiver>
+      <Name>RERProjectStatementItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Url>~debugRemoteAppServiceBaseUrl/Services/RERProjectStatement.svc</Url>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+    <Receiver>
+      <Name>RERProjectStatementItemUpdated</Name>
+      <Type>ItemUpdated</Type>
+      <Url>~debugRemoteAppServiceBaseUrl/Services/RERProjectStatement.svc</Url>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

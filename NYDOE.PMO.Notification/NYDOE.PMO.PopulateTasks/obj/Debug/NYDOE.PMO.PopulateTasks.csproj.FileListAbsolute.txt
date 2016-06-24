@@ -1,0 +1,10 @@
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\NYDOE.PMO.PopulateTasks.exe.config
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\NYDOE.PMO.PopulateTasks.exe
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\NYDOE.PMO.PopulateTasks.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\obj\Debug\NYDOE.PMO.PopulateTasks.exe
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\obj\Debug\NYDOE.PMO.PopulateTasks.pdb
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\obj\Debug\NYDOE.PMO.PopulateTasks.csprojResolveAssemblyReference.cache
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\NYDOE.PMO.DAL.dll
+E:\Projects 2015\NYDOE.PMO.Notification\NYDOE.PMO.PopulateTasks\bin\Debug\NYDOE.PMO.DAL.pdb

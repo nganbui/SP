@@ -1,0 +1,16 @@
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\csc.exe
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\vbc.exe
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\NYDOE.RER.PMO.GroupProvision.pdb
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\obj\Debug\NYDOE.RER.PMO.GroupProvision.dll
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\obj\Debug\NYDOE.RER.PMO.GroupProvision.pdb
+E:\Projects 2015\NYDOE.RER.PMO.GroupProvision\NYDOE.RER.PMO.GroupProvision\bin\Debug\roslyn\vssver2.scc

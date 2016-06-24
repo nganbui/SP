@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="bb9c9da9-7e29-40a4-adfd-0652a4065af8" Scope="Web" Title="NYDOE.RER.PMO.SPGroupProvision Feature1" Version="1.0.0.0">
+  <ElementManifests>
+    <ElementManifest Location="RERProjectStatement\Elements.xml" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="RERProjectStatement\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>
